@@ -122,5 +122,26 @@ footer li{
   width:100%;
 }
 
-/* STYLES FOR HOME PAGE *?
+/* STYLES FOR MEN PAGE */
 
+.men{
+	padding: 1em;
+}
+
+.flex-container{
+	display: flex;
+  flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
+.mensItem{
+	width: 150px;
+	height: 250px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.mensImage{
+	width: 75px;
+	height: 150px;
+}
