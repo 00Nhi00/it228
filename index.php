@@ -37,22 +37,18 @@ Muffin marshmallow apple pie jujubes chocolate cake cotton candy. Caramels puddi
 
 </main>
 
-<aside>
+<aside class='home'>
 <h2>What to wear?</h2>
 <h3>Top</h3>
-<ol>
-  <img class="top" href="top.php" src="images/top.png" alt="top">
-</ol>
+<img class="top" href="top.php" src="images/top.png" alt="top">
+
 
 <h3>Bottom</h3>
-<ol>
-  <img class="bottom" href="bottom.php" src="images/bottom.png" alt="bottom">
-</ol>
+<img class="bottom" href="bottom.php" src="images/bottom.png" alt="bottom">
+
 
 <h3>Bags</h3>
-<ol>
 <img class="bags" href="bags.php" src="images/bags.png" alt="bags">
-</ol>
 
 <!-- <h3>Accessories</h3>
 <ol>

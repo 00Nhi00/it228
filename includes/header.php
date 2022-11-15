@@ -32,6 +32,7 @@ switch(THIS_PAGE) {
 }
 // our navigational array
 $nav = array(
+		'index.php' => 'Home',
     'men.php' => 'Men',
     'women.php' => 'Women',
     'size_guide.php' => 'Size Guide',
