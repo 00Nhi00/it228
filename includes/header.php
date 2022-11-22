@@ -19,9 +19,9 @@ switch(THIS_PAGE) {
         $title = 'Size Guide';
         $body = 'size_guide inner';
         break;
-    case 'sales.php':
-        $title = 'Sales';
-        $body = 'sales inner';
+    case 'accessories.php':
+        $title = 'Accessories';
+        $body = 'Accessories inner';
         break;
     case 'contact.php':
         $title = 'Contact';
@@ -32,11 +32,11 @@ switch(THIS_PAGE) {
 }
 // our navigational array
 $nav = array(
-		'index.php' => 'Home',
+	'index.php' => 'Home',
     'men.php' => 'Men',
     'women.php' => 'Women',
     'size_guide.php' => 'Size Guide',
-    'sales.php' => 'Sales',
+    'accessories.php' => 'Accessories',
     'contact.php' => 'Contact',
 );
 ?>

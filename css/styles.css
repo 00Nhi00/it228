@@ -122,9 +122,9 @@ footer li{
   width:100%;
 }
 
-/* STYLES FOR MEN PAGE */
+/* STYLES FOR MEN AND WOMEN PAGE */
 
-.men{
+.men, .women, .accessories{
 	padding: 1em;
 }
 
@@ -134,14 +134,14 @@ footer li{
 	justify-content: space-around;
 }
 
-.mensItem{
+.mensItem, .womensItem, .accessoriesItem{
 	width: 150px;
 	height: 250px;
-	border: 1px solid black;
+	/* border: 1px solid black; */
 	text-align: center;
 }
 
-.mensImage{
-	width: 75px;
-	height: 150px;
+.mensImage, .womensImage, .accessoriesImage{
+	width: 155px;
+	height: 200px;
 }
