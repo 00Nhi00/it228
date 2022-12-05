@@ -27,7 +27,9 @@ switch(THIS_PAGE) {
         $title = 'Contact';
         $body = 'contact inner';
         break;
-    
+    case 'thx.php':
+        $title = 'Thank You Page';
+        $body = 'Thank_you inner';
 
 }
 // our navigational array
